@@ -1,5 +1,4 @@
 import classes from './Home.module.css'
-import {Container, Row,Col} from 'reactstrap'
 import Image from 'next/image'
 import {LocalCafe} from '@material-ui/icons';
 

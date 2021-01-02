@@ -9,15 +9,15 @@ const Index = () => {
     return (
         
         <>
-        <Head>
-          <title>React</title>         
-        </Head>
-        <BrowserRouter>
+            <Head>
+                <title>React</title>         
+            </Head>
+            <BrowserRouter>
 
-        <Layouts>        
-            <HomeSection/>
-        </Layouts>
-        </BrowserRouter>
+                <Layouts>        
+                    <HomeSection/>
+                </Layouts>
+            </BrowserRouter>
         </>
     )
 }

@@ -1,0 +1,49 @@
+.Home_position .Home_row{
+    display:flex;
+    justify-content:space-between;
+    height:1vh;
+}
+.Home_position{
+    padding:0 4em;
+}
+.Home_position .Home_image{
+    margin:auto;
+};
+.Home_column_Image{
+    width:50%;
+}
+
+.Home_position .Home_column_title {
+    width:50%;
+    height: 100%;
+}
+.Home_position .Home_Title {
+    margin:40% 0;
+    width:100%;
+    
+}
+.Coffee_Contact{
+    display: flex;
+    color:rgb(246 237 226);
+    padding:1em;
+}
+.Coffee_Contact .Icon{
+    border:3px solid rgb(246 237 226);
+    padding:1em;
+    font-size: 20px;
+}
+
+.Coffee_Contact h4{
+    padding:1em;
+    font-weight:900;
+
+}
+.Home_position .Home_Title span{
+    color:rgb(246 237 226);
+}
+
+.Home_position .Home_Title h3{
+    font-weight:1000;
+    font-size:40px;
+    width:100%;
+}

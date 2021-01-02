@@ -4,11 +4,36 @@
     top:0;
     display:flex;
     height:auto;
+    justify-content:space-between ;
+    padding:20px 4em;
 }
-.nav_container h1{
+.nav_container h3{
     color: #222;
     font-weight:700;
 }
 .nav_container .nav_items{
     display: flex;
+    list-style-type: none;
+    justify-content:space-between;
+}
+
+.nav_container a{
+    color:#222;
+    font-size:1.5em;
+    height: 2em;
+    margin:1em;
+
+}
+
+
+.nav_container a svg{
+    font-size:2em;
+    width :2em;
+}
+.nav_container a:hover{
+    color:#222;
+}
+
+.nav_container .nav_items .is_active{
+    background-color:red;
 }

@@ -1,0 +1,14 @@
+/* cream color #F6EDE2 */
+.nav_container{
+    width:100%;
+    top:0;
+    display:flex;
+    height:auto;
+}
+.nav_container h1{
+    color: #222;
+    font-weight:700;
+}
+.nav_container .nav_items{
+    display: flex;
+}
